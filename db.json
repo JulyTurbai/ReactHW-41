@@ -1,0 +1,103 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "title": "Ноутбук Acer Aspire 5 A515-56G-51Q5",
+      "img": "https://content.rozetka.com.ua/goods/images/big/285466617.jpg",
+      "description": {
+        "small": "Екран 15.6\" IPS (1920x1080) Full HD, матовий / Intel Core i5-1135G7 (2.4 - 4.2 ГГц) / RAM 8 ГБ / SSD 512 ГБ / nVidia GeForce MX450, 2 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / без ОС / 1.9 кг / срібний",
+        "full": "Ключові характеристики: тонкий корпус із металевою кришкою процесор Intel Core i5-1135G7 (4 ядра/8 потоків) оперативна пам’ять DDR4 об’ємом 8 ГБ і швидкий SSD-диск PCIe на 512 ГБ відеокарта NVIDIA GeForce MX450 2ГБ клавіатура з підсвічуванням, тачпад із підтримкою жестів"
+      },
+      "price": {
+        "value": 25000,
+        "currency": "UAH",
+        "sale": null
+      },
+      "category": 1
+    },
+    {
+      "id": 2,
+      "title": "Ноутбук Lenovo IdeaPad Gaming 3 15IHU6 (82K10190RA)",
+      "img": "https://content.rozetka.com.ua/goods/images/big/334788278.jpg",
+      "description": {
+        "small": "Екран 15.6\"IPS (1920x1080) Full HD 120 Гц, матовий / Intel Core i5-11320H (2.5 - 4.5 ГГц) / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3050, 4 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / без ОС / 2.25 кг / чорний",
+        "full": "Ключові характеристики: У ігрових ноутбуках на базі відеокарт GeForce RTX 3050 використовується відзначена нагородами архітектура NVIDIA Ampere. Вона забезпечує виняткову якість графіки, дозволяючи по-новому подивитись ваші улюблені ігри."
+      },
+      "price": {
+        "value": 31000,
+        "currency": "UAH",
+        "sale": null
+      },
+      "category": 1
+    },
+    {
+      "id": 3,
+      "title": "Ноутбук ASUS Vivobook 15 X1500EA-BQ3733 (90NB0TY6-M040W0)",
+      "img": "https://content.rozetka.com.ua/goods/images/big/334343847.jpg",
+      "description": {
+        "small": "Екран 15.6\" IPS (1920x1080) Full HD, матовий / Intel Core i3-1115G4 (3.0 - 4.1 ГГц) / RAM 12 ГБ / SSD 512 ГБ / Intel UHD Graphics / без ОД / Wi-Fi / Bluetooth / веб-камера / без ОС / 1.8 кг / сріблястий",
+        "full": "Ключові характеристики: Vivobook 15 - це ноутбук на кожен день, готовий впоратися з будь-якими завданнями, будь то офісні або особисті справи, робочі або розважальні програми. Процесор Intel Core 11-го покоління значно перевершує продуктивність своїх попередників."
+      },
+      "price": {
+        "value": 17000,
+        "currency": "UAH",
+        "sale": null
+      },
+      "category": 1
+    },
+    {
+      "id": 4,
+      "title": "Ноутбук Apple MacBook Air 13.6\" M2 8/256GB 2022 (MLXW3UA/A) Space Gray",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/269256825.jpg",
+      "description": {
+        "small": "Екран 13.6\" Liquid Retina (2560x1664), глянсовий / Apple M2 / RAM 8 ГБ / SSD 256 ГБ / Apple M2 Graphics (8 ядер) / Wi-Fi / Bluetooth / macOS Monterey / 1.24 кг / сірий",
+        "full": "Ключові характеристики: Дисплей Retina 13,6 дюйма з яскравістю 500кд/м і широким кольоровим охопленням Р3 для приголомшливого кольору і неймовірної деталізації"
+      },
+      "price": {
+        "value": 53000,
+        "currency": "UAH",
+        "sale": null
+      },
+      "category": 1
+    },
+    {
+      "id": 5,
+      "title": "Ноутбук ASUS TUF Gaming F15 FX506HE-HN012 (90NR0704-M00CW0)",
+      "img": "https://content2.rozetka.com.ua/goods/images/big/283529272.jpg",
+      "description": {
+        "small": "Екран 15.6\" IPS (1920x1080) Full HD 144 Гц, матовий / Intel Core i5-11400H (2.7 - 4.5 ГГц) / RAM 16 ГБ / SSD 512 ГБ / nVidia GeForce RTX 3050 Ti, 4 ГБ / без ОД / LAN / Wi-Fi / Bluetooth / веб-камера / без ОС / 2.3 кг / чорний",
+        "full": "Ключові характеристики: Корпус TUF Gaming F15 став компактнішим і легшим, ніж у попередніх моделей серії, проте в нього вбудовано акумулятор більшої місткості - 48 Вт*год. Це забезпечує тривалий час автономної роботи. Мала вага і місткий акумулятор роблять цей ноутбук справді мобільним пристроєм."
+      },
+      "price": {
+        "value": 34000,
+        "currency": "UAH",
+        "sale": null
+      },
+      "category": 1
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "title": "Notebooks"
+    },
+    {
+      "id": 2,
+      "title": "Smartphones"
+    }
+  ],
+  "cart": [
+    {
+      "productId": 2,
+      "id": 1
+    },
+    {
+      "productId": 4,
+      "id": 2
+    },
+    {
+      "productId": 1,
+      "id": 3
+    }
+  ]
+}

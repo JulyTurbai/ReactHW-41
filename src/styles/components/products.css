@@ -1,0 +1,12 @@
+.products {
+  display: flex;
+}
+
+.product {
+  transition: transform 0.4s;
+  background: white;
+}
+
+.product:hover {
+  transform: scale(1.1);
+}/*# sourceMappingURL=products.css.map */

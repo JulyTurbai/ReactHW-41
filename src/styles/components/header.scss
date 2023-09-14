@@ -1,0 +1,26 @@
+.header {
+    padding: 20px;
+    background: #1b1919;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    &__title {
+      color: rgb(236, 121, 100);
+    }
+  }
+
+  .header__cart {
+    color: rgb(236, 121, 100);
+    margin-right: 50px;
+    font-size: 30px;
+    position: relative;
+    .info {
+      position: absolute;
+      width: 20px;
+      height: 20px;
+      border-radius: 50px;
+      background-color: rgb(202, 172, 172);
+      top: 20px;
+      left:25px;
+    }
+  }

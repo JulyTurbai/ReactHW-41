@@ -1,0 +1,10 @@
+.products {
+    display: flex;
+}
+.product{
+    transition: transform 0.40s;
+    background: white;
+}
+.product:hover {
+    transform: scale(1.1);
+}
