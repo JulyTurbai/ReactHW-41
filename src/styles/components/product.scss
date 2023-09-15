@@ -13,6 +13,18 @@
         object-position: center;
       }
     }
+    &__sale {
+      width: 60px;
+      height: 20px;
+      font-size: 13px;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      font-weight: bold;
+      background-color: yellow;
+      border-radius: 20px;
+      margin-bottom: 10px;
+    }
     &__title {
       font-size: 0.7rem;
       margin-bottom: 20px;

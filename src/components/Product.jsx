@@ -8,7 +8,7 @@ import { useState } from 'react';
 
 const Product = ({ product }) => {
     
-    const {id, title, img, description:full, price, category} = product;
+    const {id, title, img, description:full, price, price:sale, category} = product;
     
     const [productId, setProductId] = useState(id);
     const [response, setResponse] = useState('');
@@ -53,6 +53,9 @@ const Product = ({ product }) => {
     
     return (
         <div className="product" id={ id }>
+            {
+                price.sale === true ? <div className='product__sale'>Знижка</div> : <div></div>
+            }
             <div className="product__thumbnail">
                 <img onClick={() =>createModalWindow()} src={ img } alt={ title } />
             </div>
